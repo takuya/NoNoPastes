@@ -1,0 +1,19 @@
+{
+     "manifest_version": 2,
+
+     "name": "No no patest/cut/copy",
+     "description": " This Extension disables disable of copy cut paste",
+     "version": "1.0",
+
+     "content_scripts": [
+     {
+          "matches": [
+          "http://*/*",
+          "https://*/*"
+           ],
+          "js": ["contents.js"],
+          "run_at": "document_end"
+     }
+     ]
+
+}
