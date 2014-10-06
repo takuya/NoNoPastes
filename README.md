@@ -1,10 +1,10 @@
-= About 
+# About  NoNoPastes
 
-Chrome Extension: PopUpToNewTab
+Chrome Extension: NoNoPastes
 
 This Extension disables disabling cut/paste/copy.
 
-== What is 
+## What is 
 
 We are getting annoyed. Pressing Ctrl+V result no action ...  
 Why we  mustinput mail address over again and again.
