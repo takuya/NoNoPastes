@@ -3,7 +3,7 @@
 
      "name": "No no patest/cut/copy",
      "description": " This Extension disables disable of copy cut paste",
-     "version": "1.0",
+     "version": "1.1",
 
      "content_scripts": [
      {
